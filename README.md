@@ -23,7 +23,7 @@
 
 ![World map image](https://upload.wikimedia.org/wikipedia/commons/9/91/Winkel_triple_projection_SW.jpg)
 
-![Mona Lisa](p5 project/assets/Mona_Lisa.jpg)
+![Mona Lisa](p5Project/assets/Mona_Lisa.jpg)
 
 ```js
 function helloWorld() {
