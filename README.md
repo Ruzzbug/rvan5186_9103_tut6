@@ -21,5 +21,20 @@
 
 [Link Text](https://www.google.com)
 
-![World map](https://upload.wikimedia.org/wikipedia/commons/9/91/Winkel_triple_projection_SW.jpg)
+![World map image](https://upload.wikimedia.org/wikipedia/commons/9/91/Winkel_triple_projection_SW.jpg)
 
+![Mona Lisa](p5 project/assets/Mona_Lisa.jpg)
+
+```js
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
+
+>This is a block quote
+
+>this is 
+>over multiple lines
+
+
+To escape formatting, use a **backslash** "\\"
